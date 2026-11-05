@@ -5,8 +5,9 @@ Public reading, download and feedback site for the Tender × DAOQL living whitep
 ## Read
 
 - Web: https://mk60dn.github.io/Tender-Whitepaper/whitepaper.html
-- Markdown: content/Tender-DAOQL-Data-Water-Whitepaper-v1.0.md
-- PDF: assets/docs/Tender-DAOQL-Data-Water-Whitepaper-v1.0.pdf
+- Version: v1.1 · 2026-11-06 · digital sovereignty + new digital economics
+- Markdown: content/Tender-DAOQL-Data-Water-Whitepaper-v1.1.md
+- PDF: assets/docs/Tender-DAOQL-Data-Water-Whitepaper-v1.1.pdf
 - Feedback: https://github.com/MK60DN/Tender-Whitepaper/issues/new?template=whitepaper_feedback.yml
 
 ## Scope
